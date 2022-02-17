@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikkil50
-- 👀 I’m interested in ...Python/Data Science 
+- 👀 I’m interested in ...Python/R/Data Science 
 - 🌱 I’m currently learning ...Data Science ( MSc. in DS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
