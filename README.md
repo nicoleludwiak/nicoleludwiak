@@ -21,6 +21,7 @@ Although I'm most comfortable working with the following technologies:
 * PostgreSQL
 * Apollo
 * Material Design, WordPress, Shopify (expert level)
+
 I am open to adapting new technologies/skillset that would make a certain job easier.
 
 "What ever you can imagine, I will work my best to provide!"
